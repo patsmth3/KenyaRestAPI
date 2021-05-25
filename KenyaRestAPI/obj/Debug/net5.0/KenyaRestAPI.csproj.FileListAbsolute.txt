@@ -1,0 +1,17 @@
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/bin/Debug/net5.0/KenyaRestAPI.deps.json
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/bin/Debug/net5.0/KenyaRestAPI.runtimeconfig.json
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/bin/Debug/net5.0/KenyaRestAPI.runtimeconfig.dev.json
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/bin/Debug/net5.0/KenyaRestAPI.dll
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/bin/Debug/net5.0/ref/KenyaRestAPI.dll
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/bin/Debug/net5.0/KenyaRestAPI.pdb
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.csprojAssemblyReference.cache
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.AssemblyInfoInputs.cache
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.AssemblyInfo.cs
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.csproj.CoreCompileInputs.cache
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.csproj.CopyComplete
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.dll
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/ref/KenyaRestAPI.dll
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.pdb
+/Users/patsmith/TrueCoders/repos/KenyaRestAPI/KenyaRestAPI/obj/Debug/net5.0/KenyaRestAPI.genruntimeconfig.cache
